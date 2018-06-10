@@ -8,7 +8,7 @@ for value in x:
 
 
 print(x[2])
-    
+print(x[1])    
 print(x[3])   #prints the second element of the list
 
 		
