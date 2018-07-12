@@ -26,6 +26,8 @@ print(min(x))
 print(max(x))
 
 
+## where is problems that we solved on saturday n sunday?
+
 
 
 
